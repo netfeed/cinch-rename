@@ -10,7 +10,7 @@ A plugin for renaming Cinch IRC-bots.
     bot = Cinch::Bot.new do
       configure do |c|
         c.server = "irc.freenode.org"
-        c.channels = ["#apanigatan"]
+        c.channels = ["#cinch-bots"]
         c.plugins.plugins = [Cinch::Plugins::Rename]
         c.plugins.options = {
           Cinch::Plugins::Rename => {
