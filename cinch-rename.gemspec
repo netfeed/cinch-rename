@@ -7,11 +7,11 @@ Gem::Specification.new do |s|
   s.email = "victor.bergoo@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE",
-    "README.rdoc"
+    "README.md"
   ]
   s.files = [
     "LICENSE",
-    "README.rdoc",
+    "README.md",
     "VERSION",
     "cinch-rename.gemspec",
     "lib/cinch/plugins/rename.rb"
