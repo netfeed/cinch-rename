@@ -24,6 +24,8 @@ A plugin for renaming Cinch IRC-bots.
 
     bot.start
 
+!rename SomeOtherNick
+
 ## Options
 
 admin is an optional config variable that takes a list of user nicks that can change the bots name.
